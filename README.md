@@ -14,6 +14,9 @@ http://localhost:8000/docs
 ```
 docker-compose exec db mysql demo
 ```
+- 画面
+![image](https://user-images.githubusercontent.com/104050041/193409604-4f3745ce-0234-4331-9101-1747cca90aed.png)
+
 
 ### 参考記事
 1. [はじめに｜FastAPI入門](https://zenn.dev/sh0nk/books/537bb028709ab9/viewer/f1b6fc)
