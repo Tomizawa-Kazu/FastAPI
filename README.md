@@ -29,3 +29,4 @@ docker-compose exec db mysql demo
 11. [データベースの接続とDBモデル（Models）｜FastAPI入門](https://zenn.dev/sh0nk/books/537bb028709ab9/viewer/281ee0)
 12. [DB操作（CRUDs）｜FastAPI入門](https://zenn.dev/sh0nk/books/537bb028709ab9/viewer/b92ab0)
 13. [ユニットテスト｜FastAPI入門](https://zenn.dev/sh0nk/books/537bb028709ab9/viewer/d3f074)
+14. [読者コミュニティ｜FastAPI入門](https://zenn.dev/sh0nk/scraps/a981a1e100f62c)
